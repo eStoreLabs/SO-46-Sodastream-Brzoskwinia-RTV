@@ -1252,6 +1252,7 @@
   #es-rc-content.es-rc .es-recipes__day-night-recipe-content--dark {
     position: absolute;
     top: 31.8%;
+    -webkit-clip-path: polygon(0 0%, 100% 18%, 100% 100%, 0 89%);
     clip-path: polygon(0 0%, 100% 18%, 100% 100%, 0 89%);
     font-size: 18px;
     margin-top: 0;
